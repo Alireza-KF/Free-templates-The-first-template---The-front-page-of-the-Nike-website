@@ -1,0 +1,92 @@
+{
+    "media": {
+        "banner": [
+            {
+                "id": 1,
+                "type": "video",
+                "role": "hero",
+                "src": "./images&videos/doc_2024-08-19_20-26-51.mp4"
+            },
+            {
+                "id": 2,
+                "type": "video",
+                "role": "advertisement",
+                "src": "images&videos/video_2024-08-19_20-26-59.mp4"
+            },
+            {
+                "id": 3,
+                "type": "image",
+                "description": "orang shoes",
+                "src": "./images&videos/shoese.png"
+            }
+        ],
+        "gallery": [
+            {
+                "id": 4,
+                "alt": "White",
+                "class": "white",
+                "src": "./images&videos/White.jpg"
+            },
+            {
+                "id": 5,
+                "alt": "TV",
+                "class": "tv-back",
+                "src": "./images&videos/TV-Back.jpg"
+            },
+            {
+                "id": 6,
+                "alt": "Pink",
+                "class": "pink",
+                "src": "./images&videos/Pink.jpg"
+            },
+            {
+                "id": 7,
+                "alt": "Blue",
+                "class": "blue",
+                "src": "./images&videos/Blue.jpg"
+            }
+        ],
+        "products": [
+            {
+                "id": 8,
+                "src": "./images&videos/nike1.jfif"
+            },
+            {
+                "id": 9,
+                "src": "./images&videos/nike2.jfif"
+            },
+            {
+                "id": 10,
+                "src": "./images&videos/nike3.jfif"
+            },
+            {
+                "id": 11,
+                "src": "./images&videos/nike4.jfif"
+            },
+            {
+                "id": 12,
+                "src": "./images&videos/nike5.jfif"
+            },
+            {
+                "id": 13,
+                "src": "./images&videos/nike6.jfif"
+            },
+            {
+                "id": 14,
+                "src": "./images&videos/nike7.jfif"
+            },
+            {
+                "id": 15,
+                "src": "./images&videos/nike8.jfif"
+            },
+            {
+                "id": 16,
+                "src": "./images&videos/nike9.jfif"
+            },
+            {
+                "id": 17,
+                "src": "./images&videos/nike10.jfif"
+            }
+        ]
+    }
+}

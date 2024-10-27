@@ -1,0 +1,341 @@
+@media screen and (max-width:1299px) and (min-width:1000px) {
+   
+
+    .searchbox {
+        position: relative;
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding: 5px;
+        height: 40px;
+    }
+
+
+    div.icons {
+        position: relative;
+        display: flex;
+        gap: 0.8rem;
+        left: 27%;
+    }
+
+    .video-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .video-frame{
+        width: 1000px;
+    }
+
+    .gallery{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery img{
+        margin: 10px;
+        border-radius: 10px;
+    }
+
+    .shoess{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .shoess img{
+        width: 1000px;
+    }
+
+    .container {
+        width:1000px;
+        height: 500px;
+        border: 0;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+    .container-menu-footer{
+        width: 1000px;
+        height: 100%;
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+        margin-top: 60px;
+    }
+
+    
+}
+
+@media screen and (max-width:999px) and (min-width:500px) {
+
+    header , .searchbox {
+        display: none;
+    }
+
+
+
+
+
+
+    .video-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 400px;
+        margin-top: 30px;
+    }
+
+    .video-frame{
+        height: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery img{
+        width: 80% !important;
+        margin: 10px;
+        border-radius: 10px;
+    }
+
+    .shoess{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .shoess img{
+        width: 100%;
+    }
+
+    .container {
+        width:80%;
+        height: 500px;
+        border: 0;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container1 {
+        height: 100%;
+        border-bottom: 3px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        top: -50%;
+        align-items: center;
+        justify-content: center;
+    }
+    
+
+    
+    .container-menu-footer{
+        width: 80%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        justify-content: space-between;
+        margin-top: 60px;
+    }
+
+    .title{
+        font-size: 30px;
+        margin: 10px 0;
+    }
+
+
+    .section-bar{
+        margin: 10px 0;
+    }
+    
+    .humberger-menu{
+        display: flex;
+        
+    }
+
+    .active{
+        right: 0px;
+        transition: all 0.5s;
+    }
+
+    div.footer{
+        display: flex;
+        position: relative;
+        gap: 2rem;
+        justify-content: end !important;
+        align-items: end;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .footer *{
+        margin-right: 30px;
+    }
+
+    .down-logo{
+        display: none;
+    }
+
+
+}
+
+@media screen and (max-width:499px) and (min-width:350px)  {
+
+    
+    header , .searchbox {
+        display: none;
+    }
+
+
+
+
+
+
+    .video-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 350px;
+        margin-top: 30px;
+    }
+
+    .video-frame{
+        height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .gallery img{
+        width: 80% !important;
+        margin: 10px;
+        border-radius: 10px;
+    }
+
+    .shoess{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .shoess img{
+        width: 100%;
+    }
+
+    .container {
+        width:80%;
+        height: 500px;
+        border: 0;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container1 {
+        height: 100%;
+        border-bottom: 3px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        top: -50%;
+        align-items: center;
+        justify-content: center;
+    }
+    
+
+    
+    .container-menu-footer{
+        width: 80%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        justify-content: space-between;
+        margin-top: 60px;
+    }
+
+    .title{
+        font-size: 30px;
+        margin: 10px 0;
+    }
+
+
+    .section-bar{
+        margin: 10px 0;
+    }
+    
+    
+    .container {
+        width: 100%;
+        height: 100%;
+        border: 0;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.132);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+
+    .section{
+        margin: 20px 0;
+    }
+
+    video {
+        width: 100%;
+        height: 100%;
+    }
+    
+    section.woa>h1.win {
+        font-weight: 900;
+        font-size: 40px;
+    }
+    
+    section.woa>p {
+        font-size: 20px;
+    }
+
+    div.footer{
+        display: flex;
+        position: relative;
+        gap: 2rem;
+        justify-content: end !important;
+        align-items: end;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .footer *{
+        margin-right: 30px;
+    }
+    
+    .down-logo{
+        display: none;
+    }
+
+    .humberger-menu{
+        display: flex;
+        
+    }
+    
+    
+
+}

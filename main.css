@@ -1,0 +1,502 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.132);
+    padding: 10px 20px;
+    height: 40px;
+}
+
+div.image {
+    display: flex;
+    gap: 0.5rem;
+}
+
+div.menu-head {
+    display: flex;
+    align-items: start;
+    margin-left: auto;
+    margin-right: 60px;
+    margin-top: 1%;
+}
+
+div.menu-head>nav.men_head>ul.men_head1 {
+    display: flex;
+    gap: 0.5rem;
+    font-size: 15px;
+}
+
+div.menu-head>nav.men_head>ul.men_head1>a.texts {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+.searchbox {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 5px;
+    height: 40px;
+}
+
+#input {
+    position: relative;
+    border: none;
+    outline: none;
+    background: transparent;
+    background-color: rgba(128, 128, 128, 0.132);
+    border-radius: 10px;
+    padding-left: 30px;
+    width: 10%;
+    font-size: 16px;
+    left: 75%;
+}
+
+#input::placeholder {
+    position: relative;
+}
+
+.search_icon {
+    position: absolute;
+    left: 10px;
+    width: 30px;
+    height: auto;
+    left: 79%;
+    width: 20px;
+}
+
+.svg5 {
+    margin-top: 0.5%;
+}
+
+div.icons {
+    position: relative;
+    display: flex;
+    gap: 0.8rem;
+    left: 35%;
+}
+
+nav.menu {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 1.5%;
+}
+
+nav.menu>ul.menu1 {
+    display: flex;
+    gap: 1rem;
+}
+
+nav.menu>ul.menu1>a.text {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+video {
+    width: 100%;
+    height: 900px;
+}
+
+.seconds-years {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    text-align: center;
+    margin-top: -2%;
+}
+
+.seconds {
+    font-weight: bold;
+}
+
+.single-moment, .Richardson {
+    margin: 10px 0;
+}
+
+.explore {
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery>img.pink {
+    width: 758px;
+}
+
+div.video {
+    margin-top: 5%;
+}
+
+section.woa {
+    text-align: center;
+}
+
+section.woa>h1.win {
+    font-weight: 900;
+    font-size: 70px;
+}
+
+section.woa>p {
+    font-size: 30px;
+}
+
+section.woa>button.experience {
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 130px;
+    height: 30px;
+    cursor: pointer;
+}
+
+section.woa>button.shop {
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+
+section.this {
+    text-align: center;
+    align-content: center;
+    height: 10rem;
+}
+
+section.this>div.new>h2.week {
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+section.this>div.new>button.btn-week {
+    border-radius: 20px;
+    border: 0;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+
+h2.Shop {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 200px;
+}
+
+.swiper-slide img.images {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    height: 300px;
+    width: 300px;
+}
+
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container1 {
+    height: 500px;
+    border-bottom: 3px solid rgba(128, 128, 128, 0.132);
+    display: flex;
+    top: -50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-menu-footer{
+    width: 1300px;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.section1 {
+    width: 200px;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: end;
+    
+   
+}
+
+.section2{
+    width: 200px;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: end;
+    
+    
+}
+
+.section3{
+    width: 200px;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: end;
+    
+}
+
+.section4{
+    width: 200px;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: end;
+    
+    
+}
+
+div.item{
+    display: flex;
+    height: 100%;
+    width: 200px;
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    
+}
+
+
+h2 {
+    margin: 0;
+    /* حذف فاصله بالای عنوان */
+}
+
+.text {
+    margin-top: 10px;
+    color: rgba(128, 128, 128, 0.538);
+    cursor: pointer;
+    /* فاصله بین عنوان و متن‌ها */
+}
+
+
+.container {
+    width: 100%;
+    height: 500px;
+    border: 0;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.132);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section {
+    margin: 0 20px; /* فاصله بین قسمت‌ها */
+    text-align: center; /* متن را وسط‌چین می‌کند */
+    display: flex;
+    flex-direction: column; /* چینش عمودی */
+    align-items: center; /* وسط‌چین افقی */
+}
+
+h2 {
+    margin: 0; /* حذف فاصله بالای عنوان */
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column; /* چینش عمودی */
+    align-items: center; /* وسط‌چین افقی */
+}
+
+.text {
+    margin-top: 10px; /* فاصله بین عنوان و متن‌ها */
+}
+
+
+
+div.item>img.logo{
+    height: 20px;
+}
+
+div.footer{
+    display: flex;
+    position: relative;
+    gap: 2rem;
+    justify-content: center;
+}
+
+div.footer>img.down-logo{
+    position: relative;
+    top: 5px;
+    left: -20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+div.footer>img.true-logo{
+    position: relative;
+    top: -2px;
+    left: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+.section-bar{
+    margin:0;
+}
+
+.humberger-menu{
+    display: none;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    height: 67px;
+    position: fixed;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.11);
+    z-index: 10;
+}
+
+.humberger-bars{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin-right: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bar{
+    width: 80%;
+    height: 2px;
+    background-color: black;
+}
+
+.bar::after{
+    content: "";
+    display: flex;
+    width:100%;
+    height: 2px;
+    background-color: black;
+    transform: translateY(-13px);
+    border-radius: 3px;
+}
+
+.bar::before{
+    content: "";
+    display: flex;
+    width:100%;
+    height: 2px;
+    background-color: black;
+    transform: translateY(11px);
+    border-radius: 3px;
+}
+
+.humberger-toggle{
+    width: 330px;
+    height: 100vh;
+    background-color: white;
+    position: fixed;
+    right: -350px;
+    top: 0;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.11);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+}
+
+.humberger-toggle img{
+    width: 300px;
+}
+
+.humberger-toggle ul{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.humberger-toggle ul li{
+    margin: 20px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.humberger-toggle ul hr{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.534);
+    align-self: center;
+    margin: 0 !important;
+}
+
+.active{
+    right: 0px;
+    transition: all 0.5s;
+}
+
+.close{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.close img{
+    width: 50px;
+    margin: 20px;
+}
+
+.shoess img{
+    width: 100%;
+}
