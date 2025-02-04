@@ -1,0 +1,4760 @@
+{
+  "Version": 1,
+  "Hash": "Ty2E+/HRAf0S+ltbYBLng+BnrmbJNXMP9bWsOu3syGA=",
+  "Source": "AspNetCoreSimpleSite",
+  "BasePath": "_content/AspNetCoreSimpleSite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCoreSimpleSite\\wwwroot",
+      "Source": "AspNetCoreSimpleSite",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43atpzeawx",
+      "Integrity": "sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\login.css",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nx0r25j5i7",
+      "Integrity": "eyMvTv5hK+gyvu3LaiuoqH51GaUkFcnYlMHp57kFq3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\main.css",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1kc83ers8",
+      "Integrity": "fIT1aUDvUGx/d9L3KFPRGUr4qQhmASfLrcb+uWds/Yw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\responsive.css",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n0et61w8mc",
+      "Integrity": "yansWg0bKZTEq8iK/dovZcZPBrsRLLq8KvsZIhVsYUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\styles.css",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fxhxbomkcf",
+      "Integrity": "A4ShzO+Op/V74D1Y+qtTQx74KCdrla4C2ppVLAB1Vrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_dwan.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/awroo_dwan#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nzp0rpeipy",
+      "Integrity": "k+KCWeN+4Bs/wkEK8miShi6zD/fASDcN/gM3qBMBFGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\awroo_dwan.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_up.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/awroo_up#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "36nzsxruc8",
+      "Integrity": "C1DE5LXzuSY79lKmVXB7q7+K7jeby3rXR2zghQqF08A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\awroo_up.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\nike-transparent-nike-free-free-png.webp",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/nike-transparent-nike-free-free-png#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nmc14dorti",
+      "Integrity": "Lw6BYJBcY7ZpCPBarT9YCgCFZ9uCBfFnndYN8dOVllQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\nike-transparent-nike-free-free-png.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\rigen_icon.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/rigen_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s9qvi671rn",
+      "Integrity": "wHBiB0G4VTUJtLrZ2ghkXMcfxpLUBJYPYk62iYRyV4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\rigen_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\signs-close-icon-png.webp",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/signs-close-icon-png#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cts5zww2m5",
+      "Integrity": "ICRCPaFHX/cmb0fD5pPxfzIGo7pOv4gtKI+jLqlnqh0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\signs-close-icon-png.webp"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-1.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l4xjpp1xjl",
+      "Integrity": "i8TqlfwLtLHNFSWp0TkoJdaHV6t67ES07F7dUOWNscI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-10.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-10#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "728jmlzsc7",
+      "Integrity": "jymXllcgGmc5tGBpQcYvV2sPCpiFoEnARkYKAu1U2Ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-10.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-11.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-11#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "22rw1dsltx",
+      "Integrity": "BrqSEDJOMr/UOurIl8Yd/Ex8Qo3kVgq0VZg0Ecl+IYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-11.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-12.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-12#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70mnvx9rwd",
+      "Integrity": "2T15BwSqbWH8y9IhvlsfTWyVAu7PvQWZQNKa6K/daSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-12.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-13.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-13#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hgnf419z5",
+      "Integrity": "JwJCBjTFGrJ2IPgGuzQrC2cjFxNX6TQSBIh1jKc0IR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-13.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-14.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-14#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuazv67d0o",
+      "Integrity": "uyjGQRnVmx8wld0o2rHonSTbbkjF1KUxYWHQh65GI98=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-14.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-15.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-15#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xmxc5kenpb",
+      "Integrity": "tzUiWnOvuFXDJ8MgATYFSnENy3qZ4yKWEmNG6bnaJxA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-15.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-2.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jyckwhd7gq",
+      "Integrity": "Ze3IwRkocsKKg6rl6nBwkBANtqDx2UY7ImzlrMjnm9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-3.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gxwzbcevu3",
+      "Integrity": "jDOmQCBXdirXGclZmDUHcLwABw2R+Rq4Dgk+87oxHS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-4.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "40e111oada",
+      "Integrity": "JEKCxbUnY798p3D5u9Ej5em3sZ+hyuezGuxb2+/Y/Dg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-5.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sb8y67dchz",
+      "Integrity": "WI9XSZSTfpCIesVAcY5IAfpkUBn+D8cI4fCAy2AF81g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-5.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-6.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0q3o2v1riz",
+      "Integrity": "KOlzj8hGOfj4zvA7w02wxDE2piF4URTr90AipojrEpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-6.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-7.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1blutp1k68",
+      "Integrity": "XRhp8RghsKUrPR11ux2fLYciLbVsP6dZCGa+asF5iX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-7.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-8.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bobkjj855b",
+      "Integrity": "G1ewf/whevRfG2857qWAJki3qw9NL9nBiJGr/r0SnLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-8.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-9.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/svgexport-9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjkbse2cw4",
+      "Integrity": "xfBDKJ1THTMZLNBiMUjf8HDuosFBYyX1OttV1qhM9MU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\svgexport-9.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\true_fulse.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/icons/true_fulse#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37va12n95m",
+      "Integrity": "b1UuDjhrI5cKh90JujKfFuenadDqBqGh7dJmMovcs94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\true_fulse.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Blue.jpg",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/Blue#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3uj1iv3i3",
+      "Integrity": "3weNYEMCrTqqwt6i/XjK4JcgsojzRhM2kUibr1t89VY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\Blue.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\doc_2024-08-19_20-26-51.mp4",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/doc_2024-08-19_20-26-51#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "prrllzwkwv",
+      "Integrity": "1SApE3YWx5tUbW3DV6x0NCO4W8HV4tvdKshy3ogG/UE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\doc_2024-08-19_20-26-51.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Explore.jpg",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/Explore#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v59pzk4e2u",
+      "Integrity": "XXI68ahctx+XKt8mTFA1vHKfNE8fGJb5JIiIiERLvLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\Explore.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike1.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike1#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wggqbu3jyq",
+      "Integrity": "IBde9iHxN0imGWpEhz3sODF1Y7qWPnQVpnRoA/OMgHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike1.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike10.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike10#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mpzdju1bu",
+      "Integrity": "beVVEAvgz7xeiCLKylqc7/JcG7BvxS1BAnyhWchAbpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike10.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike2.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike2#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c6fh1w11rf",
+      "Integrity": "7CfhcFJyK1TjrQbyWFruDbYwDV2ceMD5EJCJSYwH8nc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike2.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike3.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike3#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ok1euygmm4",
+      "Integrity": "iNq6u35x3j2TGedRWN9+m2uPmeSNfu2uUfq5JN1uswU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike3.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike4.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike4#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bu5de5pzl",
+      "Integrity": "TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike4.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike5.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike5#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pkafrlo6i9",
+      "Integrity": "t608407Q+tm/JzHD5MZE4vp3EB8RSEnbR+W4VXHNl4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike5.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike6.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike6#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "134ivyqwl7",
+      "Integrity": "Lcwxg3yKpeRp1TxB7Epv36bzCd6EoXx9DGHS/6UwIzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike6.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike7.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike7#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "39r7e0xdk4",
+      "Integrity": "SVwlWjONARyUWYppDwdMcbyG2AUBJf/swYc6dxs5vcE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike7.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike8.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike8#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bu5de5pzl",
+      "Integrity": "TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike8.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike9.jfif",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/nike9#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "al6xl9sipg",
+      "Integrity": "YifvaX5NkljhuAOqYP5304Zg3QJGhQiVakFO+Me8t5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\nike9.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Pink.jpg",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/Pink#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k5otwttixh",
+      "Integrity": "iCOYmvfD3fB3PUHArY6nQ2ysallh6UKR3SsKesM3Dx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\Pink.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\shoese.png",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/shoese#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0a3j3z9u6d",
+      "Integrity": "WPZb3PaOiC1kOQhlnyIQa4XvEc1BguUbG3F62OAOd4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\shoese.png"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\TV-Back.jpg",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/TV-Back#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ey1ovcb6bm",
+      "Integrity": "5n65JlJDeaJEP3F0NIUMBTgCwTn8a63vjGuqwgDcE1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\TV-Back.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-26-59.mp4",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/video_2024-08-19_20-26-59#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4susvbhj55",
+      "Integrity": "LBp0acqlqPG7CLPFgJr2uyDAjTit3oxCoSgjr9YUuOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\video_2024-08-19_20-26-59.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-27-07.mp4",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/video_2024-08-19_20-27-07#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cl1owy3t4w",
+      "Integrity": "EHbdwXF0c6o/aBPB1M5s3682gPCtcr7PdB/9o4SzbOo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\video_2024-08-19_20-27-07.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\White.jpg",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "images/images&videos/White#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "by8f1ur0ie",
+      "Integrity": "7ZsbfWqis7ae2SkezPWcSiK/8pwykgrFMvWGM07CTH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images&videos\\White.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\js\\main.js",
+      "SourceId": "AspNetCoreSimpleSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreSimpleSite",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bofsvna9au",
+      "Integrity": "paaTk1W+cd72Ba5LS4dA1/vRmGMsELDVZI4mWy4LdWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.min.43atpzeawx.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 08:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43atpzeawx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 08:21:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKIQRfQriISuQ9l/44b1zHfQniGXJhGonVtB2LlSuIs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyMvTv5hK+gyvu3LaiuoqH51GaUkFcnYlMHp57kFq3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyMvTv5hK+gyvu3LaiuoqH51GaUkFcnYlMHp57kFq3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.nx0r25j5i7.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyMvTv5hK+gyvu3LaiuoqH51GaUkFcnYlMHp57kFq3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nx0r25j5i7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyMvTv5hK+gyvu3LaiuoqH51GaUkFcnYlMHp57kFq3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fIT1aUDvUGx/d9L3KFPRGUr4qQhmASfLrcb+uWds/Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:55:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fIT1aUDvUGx/d9L3KFPRGUr4qQhmASfLrcb+uWds/Yw="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.o1kc83ers8.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fIT1aUDvUGx/d9L3KFPRGUr4qQhmASfLrcb+uWds/Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:55:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1kc83ers8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fIT1aUDvUGx/d9L3KFPRGUr4qQhmASfLrcb+uWds/Yw="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yansWg0bKZTEq8iK/dovZcZPBrsRLLq8KvsZIhVsYUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yansWg0bKZTEq8iK/dovZcZPBrsRLLq8KvsZIhVsYUU="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.n0et61w8mc.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yansWg0bKZTEq8iK/dovZcZPBrsRLLq8KvsZIhVsYUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0et61w8mc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yansWg0bKZTEq8iK/dovZcZPBrsRLLq8KvsZIhVsYUU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A4ShzO+Op/V74D1Y+qtTQx74KCdrla4C2ppVLAB1Vrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 04:18:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4ShzO+Op/V74D1Y+qtTQx74KCdrla4C2ppVLAB1Vrw="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.fxhxbomkcf.css",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A4ShzO+Op/V74D1Y+qtTQx74KCdrla4C2ppVLAB1Vrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 04:18:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fxhxbomkcf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4ShzO+Op/V74D1Y+qtTQx74KCdrla4C2ppVLAB1Vrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/awroo_dwan.nzp0rpeipy.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_dwan.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+KCWeN+4Bs/wkEK8miShi6zD/fASDcN/gM3qBMBFGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nzp0rpeipy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/awroo_dwan.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+KCWeN+4Bs/wkEK8miShi6zD/fASDcN/gM3qBMBFGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/awroo_dwan.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_dwan.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k+KCWeN+4Bs/wkEK8miShi6zD/fASDcN/gM3qBMBFGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k+KCWeN+4Bs/wkEK8miShi6zD/fASDcN/gM3qBMBFGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/awroo_up.36nzsxruc8.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_up.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C1DE5LXzuSY79lKmVXB7q7+K7jeby3rXR2zghQqF08A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "36nzsxruc8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/awroo_up.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C1DE5LXzuSY79lKmVXB7q7+K7jeby3rXR2zghQqF08A="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/awroo_up.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\awroo_up.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C1DE5LXzuSY79lKmVXB7q7+K7jeby3rXR2zghQqF08A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C1DE5LXzuSY79lKmVXB7q7+K7jeby3rXR2zghQqF08A="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/nike-transparent-nike-free-free-png.nmc14dorti.webp",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\nike-transparent-nike-free-free-png.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lw6BYJBcY7ZpCPBarT9YCgCFZ9uCBfFnndYN8dOVllQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nmc14dorti"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/nike-transparent-nike-free-free-png.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lw6BYJBcY7ZpCPBarT9YCgCFZ9uCBfFnndYN8dOVllQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/nike-transparent-nike-free-free-png.webp",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\nike-transparent-nike-free-free-png.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lw6BYJBcY7ZpCPBarT9YCgCFZ9uCBfFnndYN8dOVllQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lw6BYJBcY7ZpCPBarT9YCgCFZ9uCBfFnndYN8dOVllQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/rigen_icon.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\rigen_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHBiB0G4VTUJtLrZ2ghkXMcfxpLUBJYPYk62iYRyV4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wHBiB0G4VTUJtLrZ2ghkXMcfxpLUBJYPYk62iYRyV4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/rigen_icon.s9qvi671rn.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\rigen_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wHBiB0G4VTUJtLrZ2ghkXMcfxpLUBJYPYk62iYRyV4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9qvi671rn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/rigen_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wHBiB0G4VTUJtLrZ2ghkXMcfxpLUBJYPYk62iYRyV4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/signs-close-icon-png.cts5zww2m5.webp",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\signs-close-icon-png.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ICRCPaFHX/cmb0fD5pPxfzIGo7pOv4gtKI+jLqlnqh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cts5zww2m5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/signs-close-icon-png.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ICRCPaFHX/cmb0fD5pPxfzIGo7pOv4gtKI+jLqlnqh0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/signs-close-icon-png.webp",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\signs-close-icon-png.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ICRCPaFHX/cmb0fD5pPxfzIGo7pOv4gtKI+jLqlnqh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ICRCPaFHX/cmb0fD5pPxfzIGo7pOv4gtKI+jLqlnqh0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-1.l4xjpp1xjl.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8TqlfwLtLHNFSWp0TkoJdaHV6t67ES07F7dUOWNscI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l4xjpp1xjl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8TqlfwLtLHNFSWp0TkoJdaHV6t67ES07F7dUOWNscI="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-1.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8TqlfwLtLHNFSWp0TkoJdaHV6t67ES07F7dUOWNscI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8TqlfwLtLHNFSWp0TkoJdaHV6t67ES07F7dUOWNscI="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-10.728jmlzsc7.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jymXllcgGmc5tGBpQcYvV2sPCpiFoEnARkYKAu1U2Ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "728jmlzsc7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-10.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jymXllcgGmc5tGBpQcYvV2sPCpiFoEnARkYKAu1U2Ro="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-10.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jymXllcgGmc5tGBpQcYvV2sPCpiFoEnARkYKAu1U2Ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jymXllcgGmc5tGBpQcYvV2sPCpiFoEnARkYKAu1U2Ro="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-11.22rw1dsltx.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-11.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrqSEDJOMr/UOurIl8Yd/Ex8Qo3kVgq0VZg0Ecl+IYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22rw1dsltx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-11.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrqSEDJOMr/UOurIl8Yd/Ex8Qo3kVgq0VZg0Ecl+IYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-11.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-11.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BrqSEDJOMr/UOurIl8Yd/Ex8Qo3kVgq0VZg0Ecl+IYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BrqSEDJOMr/UOurIl8Yd/Ex8Qo3kVgq0VZg0Ecl+IYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-12.70mnvx9rwd.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2T15BwSqbWH8y9IhvlsfTWyVAu7PvQWZQNKa6K/daSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70mnvx9rwd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-12.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2T15BwSqbWH8y9IhvlsfTWyVAu7PvQWZQNKa6K/daSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-12.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2T15BwSqbWH8y9IhvlsfTWyVAu7PvQWZQNKa6K/daSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2T15BwSqbWH8y9IhvlsfTWyVAu7PvQWZQNKa6K/daSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-13.3hgnf419z5.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-13.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwJCBjTFGrJ2IPgGuzQrC2cjFxNX6TQSBIh1jKc0IR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hgnf419z5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-13.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwJCBjTFGrJ2IPgGuzQrC2cjFxNX6TQSBIh1jKc0IR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-13.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-13.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwJCBjTFGrJ2IPgGuzQrC2cjFxNX6TQSBIh1jKc0IR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwJCBjTFGrJ2IPgGuzQrC2cjFxNX6TQSBIh1jKc0IR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-14.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-14.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uyjGQRnVmx8wld0o2rHonSTbbkjF1KUxYWHQh65GI98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uyjGQRnVmx8wld0o2rHonSTbbkjF1KUxYWHQh65GI98="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-14.zuazv67d0o.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-14.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uyjGQRnVmx8wld0o2rHonSTbbkjF1KUxYWHQh65GI98=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuazv67d0o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-14.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uyjGQRnVmx8wld0o2rHonSTbbkjF1KUxYWHQh65GI98="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-15.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzUiWnOvuFXDJ8MgATYFSnENy3qZ4yKWEmNG6bnaJxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzUiWnOvuFXDJ8MgATYFSnENy3qZ4yKWEmNG6bnaJxA="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-15.xmxc5kenpb.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzUiWnOvuFXDJ8MgATYFSnENy3qZ4yKWEmNG6bnaJxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmxc5kenpb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-15.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzUiWnOvuFXDJ8MgATYFSnENy3qZ4yKWEmNG6bnaJxA="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-2.jyckwhd7gq.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ze3IwRkocsKKg6rl6nBwkBANtqDx2UY7ImzlrMjnm9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jyckwhd7gq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ze3IwRkocsKKg6rl6nBwkBANtqDx2UY7ImzlrMjnm9U="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-2.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ze3IwRkocsKKg6rl6nBwkBANtqDx2UY7ImzlrMjnm9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ze3IwRkocsKKg6rl6nBwkBANtqDx2UY7ImzlrMjnm9U="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-3.gxwzbcevu3.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDOmQCBXdirXGclZmDUHcLwABw2R+Rq4Dgk+87oxHS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxwzbcevu3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDOmQCBXdirXGclZmDUHcLwABw2R+Rq4Dgk+87oxHS0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-3.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDOmQCBXdirXGclZmDUHcLwABw2R+Rq4Dgk+87oxHS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDOmQCBXdirXGclZmDUHcLwABw2R+Rq4Dgk+87oxHS0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-4.40e111oada.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JEKCxbUnY798p3D5u9Ej5em3sZ+hyuezGuxb2+/Y/Dg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "40e111oada"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JEKCxbUnY798p3D5u9Ej5em3sZ+hyuezGuxb2+/Y/Dg="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-4.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JEKCxbUnY798p3D5u9Ej5em3sZ+hyuezGuxb2+/Y/Dg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JEKCxbUnY798p3D5u9Ej5em3sZ+hyuezGuxb2+/Y/Dg="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-5.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WI9XSZSTfpCIesVAcY5IAfpkUBn+D8cI4fCAy2AF81g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WI9XSZSTfpCIesVAcY5IAfpkUBn+D8cI4fCAy2AF81g="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-5.sb8y67dchz.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WI9XSZSTfpCIesVAcY5IAfpkUBn+D8cI4fCAy2AF81g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sb8y67dchz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WI9XSZSTfpCIesVAcY5IAfpkUBn+D8cI4fCAy2AF81g="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-6.0q3o2v1riz.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KOlzj8hGOfj4zvA7w02wxDE2piF4URTr90AipojrEpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0q3o2v1riz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KOlzj8hGOfj4zvA7w02wxDE2piF4URTr90AipojrEpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-6.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KOlzj8hGOfj4zvA7w02wxDE2piF4URTr90AipojrEpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KOlzj8hGOfj4zvA7w02wxDE2piF4URTr90AipojrEpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-7.1blutp1k68.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XRhp8RghsKUrPR11ux2fLYciLbVsP6dZCGa+asF5iX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1blutp1k68"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XRhp8RghsKUrPR11ux2fLYciLbVsP6dZCGa+asF5iX0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-7.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XRhp8RghsKUrPR11ux2fLYciLbVsP6dZCGa+asF5iX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XRhp8RghsKUrPR11ux2fLYciLbVsP6dZCGa+asF5iX0="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-8.bobkjj855b.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G1ewf/whevRfG2857qWAJki3qw9NL9nBiJGr/r0SnLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bobkjj855b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G1ewf/whevRfG2857qWAJki3qw9NL9nBiJGr/r0SnLw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-8.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G1ewf/whevRfG2857qWAJki3qw9NL9nBiJGr/r0SnLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G1ewf/whevRfG2857qWAJki3qw9NL9nBiJGr/r0SnLw="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-9.pjkbse2cw4.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfBDKJ1THTMZLNBiMUjf8HDuosFBYyX1OttV1qhM9MU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjkbse2cw4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/svgexport-9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfBDKJ1THTMZLNBiMUjf8HDuosFBYyX1OttV1qhM9MU="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/svgexport-9.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\svgexport-9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfBDKJ1THTMZLNBiMUjf8HDuosFBYyX1OttV1qhM9MU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfBDKJ1THTMZLNBiMUjf8HDuosFBYyX1OttV1qhM9MU="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/true_fulse.37va12n95m.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\true_fulse.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1UuDjhrI5cKh90JujKfFuenadDqBqGh7dJmMovcs94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37va12n95m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/true_fulse.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1UuDjhrI5cKh90JujKfFuenadDqBqGh7dJmMovcs94="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/true_fulse.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\icons\\true_fulse.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1UuDjhrI5cKh90JujKfFuenadDqBqGh7dJmMovcs94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1UuDjhrI5cKh90JujKfFuenadDqBqGh7dJmMovcs94="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Blue.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Blue.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3weNYEMCrTqqwt6i/XjK4JcgsojzRhM2kUibr1t89VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3weNYEMCrTqqwt6i/XjK4JcgsojzRhM2kUibr1t89VY="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Blue.l3uj1iv3i3.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Blue.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3weNYEMCrTqqwt6i/XjK4JcgsojzRhM2kUibr1t89VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3uj1iv3i3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/Blue.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3weNYEMCrTqqwt6i/XjK4JcgsojzRhM2kUibr1t89VY="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/doc_2024-08-19_20-26-51.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\doc_2024-08-19_20-26-51.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1SApE3YWx5tUbW3DV6x0NCO4W8HV4tvdKshy3ogG/UE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SApE3YWx5tUbW3DV6x0NCO4W8HV4tvdKshy3ogG/UE="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/doc_2024-08-19_20-26-51.prrllzwkwv.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\doc_2024-08-19_20-26-51.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1SApE3YWx5tUbW3DV6x0NCO4W8HV4tvdKshy3ogG/UE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "prrllzwkwv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/doc_2024-08-19_20-26-51.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1SApE3YWx5tUbW3DV6x0NCO4W8HV4tvdKshy3ogG/UE="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Explore.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Explore.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XXI68ahctx+XKt8mTFA1vHKfNE8fGJb5JIiIiERLvLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XXI68ahctx+XKt8mTFA1vHKfNE8fGJb5JIiIiERLvLk="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Explore.v59pzk4e2u.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Explore.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XXI68ahctx+XKt8mTFA1vHKfNE8fGJb5JIiIiERLvLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v59pzk4e2u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/Explore.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XXI68ahctx+XKt8mTFA1vHKfNE8fGJb5JIiIiERLvLk="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike1.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike1.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IBde9iHxN0imGWpEhz3sODF1Y7qWPnQVpnRoA/OMgHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBde9iHxN0imGWpEhz3sODF1Y7qWPnQVpnRoA/OMgHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike1.wggqbu3jyq.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike1.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IBde9iHxN0imGWpEhz3sODF1Y7qWPnQVpnRoA/OMgHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wggqbu3jyq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike1.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBde9iHxN0imGWpEhz3sODF1Y7qWPnQVpnRoA/OMgHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike10.5mpzdju1bu.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike10.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beVVEAvgz7xeiCLKylqc7/JcG7BvxS1BAnyhWchAbpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mpzdju1bu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike10.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-beVVEAvgz7xeiCLKylqc7/JcG7BvxS1BAnyhWchAbpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike10.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike10.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beVVEAvgz7xeiCLKylqc7/JcG7BvxS1BAnyhWchAbpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-beVVEAvgz7xeiCLKylqc7/JcG7BvxS1BAnyhWchAbpw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike2.c6fh1w11rf.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike2.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CfhcFJyK1TjrQbyWFruDbYwDV2ceMD5EJCJSYwH8nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c6fh1w11rf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike2.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7CfhcFJyK1TjrQbyWFruDbYwDV2ceMD5EJCJSYwH8nc="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike2.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike2.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7CfhcFJyK1TjrQbyWFruDbYwDV2ceMD5EJCJSYwH8nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7CfhcFJyK1TjrQbyWFruDbYwDV2ceMD5EJCJSYwH8nc="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike3.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike3.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNq6u35x3j2TGedRWN9+m2uPmeSNfu2uUfq5JN1uswU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNq6u35x3j2TGedRWN9+m2uPmeSNfu2uUfq5JN1uswU="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike3.ok1euygmm4.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike3.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iNq6u35x3j2TGedRWN9+m2uPmeSNfu2uUfq5JN1uswU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ok1euygmm4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike3.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iNq6u35x3j2TGedRWN9+m2uPmeSNfu2uUfq5JN1uswU="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike4.7bu5de5pzl.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike4.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bu5de5pzl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike4.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike4.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike4.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike5.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike5.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t608407Q+tm/JzHD5MZE4vp3EB8RSEnbR+W4VXHNl4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t608407Q+tm/JzHD5MZE4vp3EB8RSEnbR+W4VXHNl4w="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike5.pkafrlo6i9.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike5.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t608407Q+tm/JzHD5MZE4vp3EB8RSEnbR+W4VXHNl4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pkafrlo6i9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike5.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t608407Q+tm/JzHD5MZE4vp3EB8RSEnbR+W4VXHNl4w="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike6.134ivyqwl7.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike6.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lcwxg3yKpeRp1TxB7Epv36bzCd6EoXx9DGHS/6UwIzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "134ivyqwl7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike6.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lcwxg3yKpeRp1TxB7Epv36bzCd6EoXx9DGHS/6UwIzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike6.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike6.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lcwxg3yKpeRp1TxB7Epv36bzCd6EoXx9DGHS/6UwIzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lcwxg3yKpeRp1TxB7Epv36bzCd6EoXx9DGHS/6UwIzw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike7.39r7e0xdk4.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike7.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVwlWjONARyUWYppDwdMcbyG2AUBJf/swYc6dxs5vcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "39r7e0xdk4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike7.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVwlWjONARyUWYppDwdMcbyG2AUBJf/swYc6dxs5vcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike7.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike7.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVwlWjONARyUWYppDwdMcbyG2AUBJf/swYc6dxs5vcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVwlWjONARyUWYppDwdMcbyG2AUBJf/swYc6dxs5vcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike8.7bu5de5pzl.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike8.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bu5de5pzl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike8.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike8.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike8.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSID0zJecYHnP7jzH4W4FnEzEuSdbm0Fe4BBUnGgXg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike9.al6xl9sipg.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike9.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YifvaX5NkljhuAOqYP5304Zg3QJGhQiVakFO+Me8t5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "al6xl9sipg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/nike9.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YifvaX5NkljhuAOqYP5304Zg3QJGhQiVakFO+Me8t5Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/nike9.jfif",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\nike9.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YifvaX5NkljhuAOqYP5304Zg3QJGhQiVakFO+Me8t5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YifvaX5NkljhuAOqYP5304Zg3QJGhQiVakFO+Me8t5Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Pink.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Pink.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCOYmvfD3fB3PUHArY6nQ2ysallh6UKR3SsKesM3Dx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCOYmvfD3fB3PUHArY6nQ2ysallh6UKR3SsKesM3Dx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/Pink.k5otwttixh.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\Pink.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iCOYmvfD3fB3PUHArY6nQ2ysallh6UKR3SsKesM3Dx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k5otwttixh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/Pink.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iCOYmvfD3fB3PUHArY6nQ2ysallh6UKR3SsKesM3Dx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/shoese.0a3j3z9u6d.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\shoese.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WPZb3PaOiC1kOQhlnyIQa4XvEc1BguUbG3F62OAOd4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0a3j3z9u6d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/shoese.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WPZb3PaOiC1kOQhlnyIQa4XvEc1BguUbG3F62OAOd4M="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/shoese.png",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\shoese.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WPZb3PaOiC1kOQhlnyIQa4XvEc1BguUbG3F62OAOd4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WPZb3PaOiC1kOQhlnyIQa4XvEc1BguUbG3F62OAOd4M="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/TV-Back.ey1ovcb6bm.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\TV-Back.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5n65JlJDeaJEP3F0NIUMBTgCwTn8a63vjGuqwgDcE1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ey1ovcb6bm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/TV-Back.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5n65JlJDeaJEP3F0NIUMBTgCwTn8a63vjGuqwgDcE1w="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/TV-Back.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\TV-Back.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5n65JlJDeaJEP3F0NIUMBTgCwTn8a63vjGuqwgDcE1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5n65JlJDeaJEP3F0NIUMBTgCwTn8a63vjGuqwgDcE1w="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/video_2024-08-19_20-26-59.4susvbhj55.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-26-59.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2512295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LBp0acqlqPG7CLPFgJr2uyDAjTit3oxCoSgjr9YUuOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4susvbhj55"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/video_2024-08-19_20-26-59.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBp0acqlqPG7CLPFgJr2uyDAjTit3oxCoSgjr9YUuOg="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/video_2024-08-19_20-26-59.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-26-59.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2512295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LBp0acqlqPG7CLPFgJr2uyDAjTit3oxCoSgjr9YUuOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LBp0acqlqPG7CLPFgJr2uyDAjTit3oxCoSgjr9YUuOg="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/video_2024-08-19_20-27-07.cl1owy3t4w.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-27-07.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5184634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHbdwXF0c6o/aBPB1M5s3682gPCtcr7PdB/9o4SzbOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cl1owy3t4w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/video_2024-08-19_20-27-07.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHbdwXF0c6o/aBPB1M5s3682gPCtcr7PdB/9o4SzbOo="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/video_2024-08-19_20-27-07.mp4",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\video_2024-08-19_20-27-07.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5184634"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHbdwXF0c6o/aBPB1M5s3682gPCtcr7PdB/9o4SzbOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHbdwXF0c6o/aBPB1M5s3682gPCtcr7PdB/9o4SzbOo="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/White.by8f1ur0ie.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\White.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ZsbfWqis7ae2SkezPWcSiK/8pwykgrFMvWGM07CTH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "by8f1ur0ie"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images&videos/White.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ZsbfWqis7ae2SkezPWcSiK/8pwykgrFMvWGM07CTH0="
+        }
+      ]
+    },
+    {
+      "Route": "images/images&videos/White.jpg",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\images\\images&videos\\White.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ZsbfWqis7ae2SkezPWcSiK/8pwykgrFMvWGM07CTH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 06:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ZsbfWqis7ae2SkezPWcSiK/8pwykgrFMvWGM07CTH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.bofsvna9au.js",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"paaTk1W+cd72Ba5LS4dA1/vRmGMsELDVZI4mWy4LdWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:56:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bofsvna9au"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-paaTk1W+cd72Ba5LS4dA1/vRmGMsELDVZI4mWy4LdWY="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"paaTk1W+cd72Ba5LS4dA1/vRmGMsELDVZI4mWy4LdWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Feb 2025 07:56:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-paaTk1W+cd72Ba5LS4dA1/vRmGMsELDVZI4mWy4LdWY="
+        }
+      ]
+    }
+  ]
+}
