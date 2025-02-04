@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj": {}
+    "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj": {
+    "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
+        "projectUniqueName": "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
         "projectName": "AspNetCoreSimpleSite",
-        "projectPath": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
+        "projectPath": "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
         "packagesPath": "C:\\Users\\ArtRoll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\obj\\",
+        "outputPath": "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudioStorage\\Setup\\NuGetPackages"
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },

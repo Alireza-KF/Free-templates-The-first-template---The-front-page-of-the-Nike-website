@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfOKeR3Ns8A=",
+  "dgSpecHash": "ZEu6vuKVfJo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ArtRoll\\Desktop\\NikeBackEnd\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
+  "projectFilePath": "C:\\Users\\ArtRoll\\Desktop\\Free-templates-The-first-template---The-front-page-of-the-Nike-website-1\\AspNetCoreSimpleSite\\AspNetCoreSimpleSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ArtRoll\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\ArtRoll\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.0.nupkg.sha512",
@@ -22,16 +22,5 @@
     "C:\\Users\\ArtRoll\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\ArtRoll\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.Json' 7.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
-      "libraryId": "System.Text.Json",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
