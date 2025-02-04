@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+}
+.Main-Section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.Sub-Page{
+    max-width: 460px;
+    min-width: 250px;
+    width: 100%;
+    height: 100%;
+}
+.Logos{
+    margin: 30px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.Icon-Jordan{
+    width: 36px;
+}
+.Icon-Nike{
+    width: 45px;
+    margin-right: 10px;
+}
+.Title{
+    font-size: 20px;
+}
+.Sub-Title{
+    display: flex;
+    margin: 20px 0 40px 0;
+}
+.Sub-Title span{
+    margin-right: 10px;
+}
+.section-Country{
+    position: relative;
+    text-decoration: underline;
+    color: #8c8c8c;
+}
+.country{
+    width: 55px;
+    opacity: 0;
+    position: absolute;
+    right:1px;
+}
+.country option{
+    font-size: 18px;
+}
+.Email{
+    width: 100%;
+    position: relative;
+    margin-bottom: 50px;
+    
+}
+.Email-Input{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #7c7c7c;
+    font-size: 17px;
+    font-weight: 100;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.Email-Input::placeholder {
+    font-size: 15px;
+}
+
+.Email-Input:focus , .Email-Input:hover{
+    border: 1px solid #000000;
+    outline: 0px;
+}
+.Email:has(input:focus) label{
+    transform: translateY(-25px) translateX(-10px) scale(0.8);
+    color: #000000;
+    transition: all 0.2s linear;
+}
+.Required span{
+    font-size: 13px;
+    margin-left: 10px;
+    display: none;
+}
+.Text{
+    font-size: 16px;
+    width: 350px;
+    color: #7c7c7c;
+    line-height:25px;
+}
+.Text a{
+    color: #7c7c7c;
+}
+.Send {
+    margin-top: 40px;
+    direction: rtl;
+    background-color: #000000;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 14px 23px;
+    cursor: pointer;
+    border: none;
+}
+.Send:hover{
+    opacity: 55%;
+}
